@@ -3,11 +3,6 @@
 ### Hello, Devs! Bem vindo ao meu GitHub.
 
 
-<!--
-**marcosfalcaoo/marcosfalcaoo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 👦 About me .
 
 - ☑️ Atualmente sou 3º Sgt no Exército 🇧🇷 .
@@ -23,5 +18,3 @@ Here are some ideas to get you started:
             <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
           
 
-
--->
