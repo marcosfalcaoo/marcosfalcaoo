@@ -5,8 +5,8 @@
 
 👦 About me .
 
-- ☑️ Atualmente sou 3º Sgt no Exército 🇧🇷 .
 - 🔞 Tenho 23 anos .
+- ☑️ Atualmente sou 3º Sgt no Exército 🇧🇷 .
 - 📖 Curso Análise e Desenvolvimento de Sistemas . 
 - 🆘 Sempre buscando evoluir meu lado profissional/pessoal.
 - 💙 Progamação! Resume bem o que busco para meu futuro e o sentimento de fazer o que gosto.
@@ -20,5 +20,3 @@
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=marcosfalcaoo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-          
-          
