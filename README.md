@@ -5,7 +5,7 @@
 
 👦 About me .
 
-- 🔞 Tenho 23 anos .
+- 🔞 Tenho 25 anos .
 - ☑️ Atualmente sou 3º Sgt no Exército 🇧🇷 .
 - 📖 Curso Análise e Desenvolvimento de Sistemas . 
 - 🆘 Sempre buscando evoluir meu lado profissional/pessoal.
